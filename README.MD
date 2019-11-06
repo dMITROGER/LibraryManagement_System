@@ -1,24 +1,23 @@
 
 
-#### Registration & Sign-in:
-When you open the E-Library Book Manager you are greeted by a registration and sign-in window. 
-An alternate Administrator checkbox is available for use in editing member and book information.
+#### Sign-Up & Sign-in window:
+Whet the app is launched the user can sign-up or sign-in, and Administrator checkbox allows to open Administrator window
 
 ![](Page1.JPG)
 
 
 
 ---------------------------------------------------
-#### Library Services:
-Once signed-in, a new window opens up with a listbox for books that have been checked-out. There is also a drop-down box filled with books available and a listbox for books selected to check-out. Buttons for check-in, selection, and check-out are shown.
+#### User window:
+The listbox allows customer to select available book and check it out, after that this book appears in BooksCheckedOut listbox. When the customer checks it in the selected book becomes available again.
 
 ![](Page2.JPG)
 
 
 
 -----------------------------------------------------
-#### Administrator Services:
+#### Administrator window:
 
-Administrator services are available for editing member and book information. This functionality is accessed by selecting the administrator checkbox when signing-in.
+Administrator can add and remove books and users from database.
 
 ![](Page3.JPG)

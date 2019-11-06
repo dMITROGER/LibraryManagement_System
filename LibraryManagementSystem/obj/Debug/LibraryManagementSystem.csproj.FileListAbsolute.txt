@@ -1,0 +1,16 @@
+C:\Udemy\ASP.NET\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Udemy\ASP.NET\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Udemy\ASP.NET\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Udemy\ASP.NET\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Udemy\ASP.NET\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Udemy\ASP.NET\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Udemy\ASP.NET\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Udemy\ASP.NET\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Udemy\ASP.NET\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Forms.FrmAdmin.resources
+C:\Udemy\ASP.NET\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Forms.FrmLibrary.resources
+C:\Udemy\ASP.NET\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.FrmSignIn.resources
+C:\Udemy\ASP.NET\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\EntityFramework.dll
+C:\Udemy\ASP.NET\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Udemy\ASP.NET\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\EntityFramework.xml
+C:\Udemy\ASP.NET\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Udemy\ASP.NET\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete

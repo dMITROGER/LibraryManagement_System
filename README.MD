@@ -1,7 +1,7 @@
 
 
 #### Sign-Up & Sign-in window:
-Whet the app is launched the user can sign-up or sign-in, and Administrator checkbox allows to open Administrator window
+When the app is launched the user can sign-up or sign-in. Administrator checkbox allows to open Administrator window.
 
 ![](Page1.JPG)
 
